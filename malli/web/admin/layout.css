@@ -1,0 +1,148 @@
+body{
+  background-color: #d6f5f5;
+  margin: 0;
+}
+/* navigation bar*/
+ h2 a{
+    text-decoration: none;
+    color: black;
+   }
+   
+   th,td{
+        height: 50px;
+        padding: 15px;
+       text-align: left;
+       font-family: sans-serif;
+       font-size: 90%;
+
+   }
+   
+a:link, a:visited {
+    background-color: black;
+    color: white;
+    padding: 10px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: grey;
+}
+
+.nav{
+  background-color: black;
+  height: 350px;
+  width: 100%;
+}
+.nav li{
+    float:left;
+    margin-top:3%;
+    margin-left: 2.2%;
+    margin-right: 2.5%;
+  }
+  
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.nav a{
+    color:white;
+    text-decoration:none;
+    font-size: 20px;
+    padding-right: 5px;
+  }
+.a:hover{
+    color: #87CEFA;
+    }
+
+    
+ /* drop down*/
+ .dropdown{
+    color: grey;
+    text-decoration:none;
+    font-size: 30px;
+    text-align: center;
+    overflow: hidden;
+}
+
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+
+.dropdown-content{
+    display: none;
+    position: absolute;
+    font-size: 30px;
+    background-color: #f9f9f9;
+    width: 300px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+    color:darkslategrey;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+}
+
+.dropdown-content a:hover{
+  background-color: #f1f1f1
+}
+/* login logout part*/
+.part01{
+    float:right;
+    height: 5%;
+    margin-right: 5%;
+    color:white;
+}
+
+.part01 a{
+  text-decoration: none;
+  color:white;
+}
+
+.part01 a:hover{
+    color: #87CEFA;
+    }
+
+/*the content in the middle*/
+
+.content{
+    font-size: 200%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+/*bottom part ads*/
+
+.slides{
+  align-items: center;
+  width:100%;
+  height:400px;
+}
+
+/* follow us part*/
+.links{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color:#e6e6e6;
+}
+
+.links img{
+  height: 50px;
+  width: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.footer{
+  background-color:#e6e6e6;
+  padding-top: 0.005%;
+  padding-bottom: 0.005%;
+  font-size: 100%;
+}

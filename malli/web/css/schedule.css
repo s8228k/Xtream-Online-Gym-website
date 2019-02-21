@@ -1,0 +1,84 @@
+#table{
+    visibility: collapse;
+}
+
+.visible{
+    height: 25px;
+    width: 500px;
+    color: blue;
+    font-size: 20px;
+}
+
+.schedule{
+    margin-top: 50px;
+    color: white;
+  }
+  
+.empty{
+    background-color: black;
+}
+.BodyTone{
+    text-decoration: none;
+    padding-left: 50px;
+    font-size: 20px;   
+}
+
+.FitnessPilates{
+    text-decoration: none;
+    padding-left: 35px;
+    font-size: 20px;
+}
+
+.Cycling{
+    text-decoration: none;
+    padding-left: 60px;
+    font-size: 20px;
+}
+
+.LegsBumsAndTums{
+    text-decoration: none;
+    padding-left: 15px;
+    font-size: 20px;
+}
+
+.BumsAndTums{
+    text-decoration: none;
+    padding-left: 25px;
+    font-size: 20px;
+}
+.Cardio{
+    text-decoration: none;
+    padding-left: 25px;
+    font-size: 20px;
+}
+
+.Yoga{
+    text-decoration: none;
+    padding-left: 25px;
+    font-size: 20px;
+}
+
+.Aerobics{
+    text-decoration: none;
+    padding-left: 25px;
+    font-size: 20px;
+}
+
+.Badminton{
+    text-decoration: none;
+    padding-left: 25px;
+    font-size: 20px;
+}
+
+.Tennis{
+    text-decoration: none;
+    padding-left: 25px;
+    font-size: 20px;
+}
+
+.button{
+    height: 25px;
+    width: 500px;
+    color: blue;
+    font-size: 20px;
+}

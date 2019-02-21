@@ -1,0 +1,17 @@
+  .fits{
+        float: center;
+    }
+
+    .fit{
+       height:200px;
+       font-size:30px;
+    }
+    
+    .class{
+         font-size:30px;
+    }
+    
+    .class a{
+        color: lightcoral;
+        font-size:30px;
+    }
